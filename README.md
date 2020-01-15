@@ -1,7 +1,7 @@
 # heaps
 insert and delete operation on a max heap
 
-Insret operation:
+Insert operation:
 
 1) Add a new element to the end of an array;
 2) Sift up the new element, while heap property is broken. Sifting is done as following: compare node's value with parent's value. If they are in wrong order, swap them.
